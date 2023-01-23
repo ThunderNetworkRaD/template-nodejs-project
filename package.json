@@ -1,0 +1,14 @@
+{
+  "name": "template-nodejs-project",
+  "version": "2023.01.23",
+  "description": "A simple nodejs template",
+  "main": "index.js",
+  "repository": "https://github.com/ThunderNetworkRaD/template-nodejs-project",
+  "author": "Thunder Network RaD",
+  "license": "read in license.txt",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "yarn": "^1.22.19"
+  }
+}
